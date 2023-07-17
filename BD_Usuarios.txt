@@ -1,0 +1,1 @@
+& "C:/Users/Manuel Camilla/AppData/Local/Microsoft/WindowsApps/python3.11.exe" "c:/Users/Manuel Camilla/OneDrive/Escritorio/Curso Python/Entregas/Segunda Entrega/Paquete/Clientes.py",cls

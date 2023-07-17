@@ -1,0 +1,8 @@
+README.md
+setup.py
+Paquete/Clases.py
+Paquete/__init__.py
+Segunda_pre_entrega_Camilla.egg-info/PKG-INFO
+Segunda_pre_entrega_Camilla.egg-info/SOURCES.txt
+Segunda_pre_entrega_Camilla.egg-info/dependency_links.txt
+Segunda_pre_entrega_Camilla.egg-info/top_level.txt
